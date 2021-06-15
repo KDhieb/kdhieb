@@ -1,4 +1,4 @@
-```🔭 Seeking September 2021 Co-op position```
+### ```🔭 Seeking Fall 2021 Co-op position```
 
 ## About me 👨‍💻
 
