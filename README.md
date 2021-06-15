@@ -24,7 +24,7 @@ I'm currently a 4th year Computer Science student studying at the University of 
 
 &nbsp;&nbsp; **Email:** kdhieb@student.ubc.ca
 
-&nbsp;&nbsp; **Website:** [khaliddhieb.me](www.khaliddhieb.me)
+&nbsp;&nbsp; **Website:** [khaliddhieb.me](https://www.khaliddhieb.me)
 
 
 <!--
