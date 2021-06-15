@@ -1,6 +1,6 @@
 ```🔭 Seeking September 2021 Co-op position```
 
-## Hi there 👋
+## About me 👨‍💻
 
 I'm currently a 4th year Computer Science student studying at the University of British Columbia. After having graduated with a Bachelor of Commerce in Finance followed by working in the financial industry, I decided to pursue my interests in technology and software development! 
 
