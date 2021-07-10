@@ -12,13 +12,13 @@ I'm currently a 4th year Computer Science student studying at the University of 
 
 ### Technical Skills
 
-&nbsp;&nbsp; **Languages:** Java, Python, C++, C, JavaScript, HTML, CSS, R
+&nbsp;&nbsp; **Languages:** Java, Python, C++, C, JavaScript, SQL, HTML, CSS, R
 
 &nbsp;&nbsp; **Frameworks and Tools:** JUnit, Django, React, Node.js, Express, 
 
-&nbsp;&nbsp; **Databases:** MongoDB, Firebase, SQLite
+&nbsp;&nbsp; **Databases:** MongoDB, Firebase, SQLite, PostgreSQL
 
-&nbsp;&nbsp; **Other:** Git, Bash, REST, Object Oriented Programming, Agile development
+&nbsp;&nbsp; **Other:** Git, Bash, REST, Object Oriented Programming, Agile development, AWS
 
 ### Contact
 
