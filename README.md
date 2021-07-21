@@ -7,7 +7,7 @@ I'm currently a 4th year Computer Science student studying at the University of 
 ### Interests
 - Full-Stack Development
 - Web Development
-- Cloud Computing
+- Cloud
 - ML/NLP
 
 ### Technical Skills
