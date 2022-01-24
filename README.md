@@ -18,12 +18,6 @@ I'm currently a 4th year Computer Science student studying at the University of 
 
 &nbsp;&nbsp; **Other:** Object Oriented Programming, REST, Agile development
 
-### Contact
-
-&nbsp;&nbsp; **Email:** kdhieb@student.ubc.ca
-
-&nbsp;&nbsp; **Website:** [khaliddhieb.me](https://www.khaliddhieb.me)
-
 
 <!--
 **KDhieb/kdhieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
